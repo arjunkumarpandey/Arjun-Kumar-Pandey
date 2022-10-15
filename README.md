@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun Kumar Pandey
 - 👀 I’m interested in coding designing and playing cricket
-- 🌱 I’m currently learning C
+- 🌱 I earned some coding skills like C, C++, JAVA and DSA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through Gmail and Instagram
 
